@@ -1,6 +1,0 @@
-[package]
-name = "luminance"
-version = "0.1.0"
-
-[dependencies]
-proton = {path = "../proton"}

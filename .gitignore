@@ -1,4 +1,6 @@
-/.idea
-/.vscode
-/target
-**/target
+target
+
+.idea
+.vscode
+.DS_Store
+.direnv
